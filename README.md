@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kingsmichaei
 - 👀 I’m interested in web/app development
-- 🌱 I’m currently studying computer science
+- 🌱 I'm a computer science student.
 - 💞️ I’m looking to collaborate with you on amazing stuffs you'd love to do
-- 📫 How to reach me @Kingsmichaei on Instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm very social, outspoken and also an Actor.
 
