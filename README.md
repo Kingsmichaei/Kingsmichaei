@@ -1,6 +1,4 @@
-Kingsley Michael over here
-
-I'm a web developer and graphic designer 
+As wise as a Python 
 
 <!---
 Kingsmichaei/Kingsmichaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
