@@ -1,67 +1,66 @@
-Hi 👋
-I’m Kings Michael, a passionate software engineer focused on building practical, real-world systems that solve real problems.
+<p> I’m Kings Michael, a passionate software engineer focused on building practical, real-world systems that solve real problems. </p>
 
-I enjoy working on backend systems, web applications, and integrating intelligent features like biometric authentication into scalable platforms.
+<P>I enjoy working on backend systems, web applications, and integrating intelligent features like biometric authentication into scalable platforms.</P>
 
-⸻
+<h2>About Me</h2>
+<ul>
+<li>Backend-focused developer</li>
+<li>Building dynamic web applications with Django</li>
+<li>Interested in AI integration and system automation</li>
+<li>Passionate about secure authentication systems</li>
+<li>Always learning and improving</li>
+</ul>
 
-🚀 About Me
-	•	💻 Backend-focused developer
-	•	🌐 Building dynamic web applications with Django
-	•	🧠 Interested in AI integration and system automation
-	•	🔐 Passionate about secure authentication systems
-	•	📈 Always learning and improving
+<h2>Tech Stack</h2>
+
+<h3>Languages</h3>
+<ul>
+	<li>Python</li>
+	<li>Javascript</li>
+	<li>HTML</li>
+	<li>CSS</li>
+</ul>
+<h2>Frameworks & Tools</h2>
+<ul>
+	<li>Django</li>
+	<li>SQLite / PostgreSQL</li>
+	<li>Git & GitHub</li>
+	<li>NumPy</li>
+	<li>Face Recognition Libraries</li>
+    <li>Bootstrap</li> 
+</ul>
+<h2>🔥 Featured Project</h2>
+
+<h3>🕒 Workplace Attendance Management System with Facial Recognition</h3>
+
+<p>A dynamic web-based attendance system that allows:</p>
+<ul>
+	<li>Secure password login</li>
+	<li>Facial recognition authentication</li>
+	<li>Clock-in and clock-out tracking</li>
+	<li>Admin-controlled user management</li>
+	<li>Role-based access control</li>
+	<li>Real-time attendance monitoring</li>
+</ul>
+<P>This project integrates biometric verification into a Django web application to enhance security and reduce impersonation.</P>
 
 
-🛠 Tech Stack
+<h2>Currently Working On</h2>
+<ul>
+	<li>Improving system architecture design</li>
+	<li>Enhancing UI/UX experience</li>
+	<li>Exploring advanced facial recognition optimization</li>
+    <li>Learning scalable backend patterns</li>
+</ul>
 
-Languages
-	•	Python
-	•	JavaScript
-	•	HTML
-	•	CSS
+<h3>My Goal</h3>
 
-Frameworks & Tools
-	•	Django
-	•	SQLite / PostgreSQL
-	•	Git & GitHub
-	•	NumPy
-	•	Face Recognition Libraries
-    •   Bootstrap 
+<P>To build secure, scalable, and intelligent systems that combine software engineering with practical innovation.</P>
 
-🔥 Featured Project
 
-🕒 Workplace Attendance Management System with Facial Recognition
+<h3>Connect With Me</h3>
 
-A dynamic web-based attendance system that allows:
-	•	Secure password login
-	•	Facial recognition authentication
-	•	Clock-in and clock-out tracking
-	•	Admin-controlled user management
-	•	Role-based access control
-	•	Real-time attendance monitoring
-
-This project integrates biometric verification into a Django web application to enhance security and reduce impersonation.
-
-⸻
-
-📚 Currently Working On
-	•	Improving system architecture design
-	•	Enhancing UI/UX experience
-	•	Exploring advanced facial recognition optimization
-	•	Learning scalable backend patterns
-
-⸻
-
-🎯 My Goal
-
-To build secure, scalable, and intelligent systems that combine software engineering with practical innovation.
-
-⸻
-
-📫 Connect With Me
-
-You can reach me through GitHub or collaborate on exciting projects.
+<p>You can reach me through GitHub or collaborate on exciting projects.</p>
 
 <!---
 Kingsmichaei/Kingsmichaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
