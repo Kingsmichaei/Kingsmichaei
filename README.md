@@ -23,7 +23,7 @@
 <h2>Frameworks & Tools</h2>
 <ul>
 	<li>Django</li>
-	<li>SQLite / PostgreSQL</li>
+	<li>MySQL/ PostgreSQL</li>
 	<li>Git & GitHub</li>
 	<li>NumPy</li>
 	<li>Face Recognition Libraries</li>
