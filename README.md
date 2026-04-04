@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kingsmichaei&label=Profile%20views&color=0e75b6&style=flat" alt="Kingsmichaei" /> </p>
 <p> I’m Kings Michael, a passionate software engineer focused on building practical, real-world systems that solve real problems. </p>
 <P>I enjoy working on backend systems of web applications.</P>
 
