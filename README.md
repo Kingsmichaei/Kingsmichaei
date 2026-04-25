@@ -1,4 +1,5 @@
-<p> I’m Kings Michael, a passionate software engineer focused on building practical, real-world systems that solve real problems. </p>
+<h1> Kings Michael, Python Backend\AI Engineer </h1>
+<p> A passionate software engineer focused on building practical, real-world systems that solve real problems. </p>
 <P>I enjoy working on backend systems of web applications.</P>
 
 <h2>About Me</h2>
@@ -12,21 +13,29 @@
 
 <h2>Tech Stack</h2>
 
-<h3>Languages</h3>
+<h3>Backend</h3>
 <ul>
 	<li>Python</li>
-	<li>Javascript</li>
-	<li>HTML</li>
-	<li>CSS</li>
-</ul>
-<h2>Frameworks & Tools</h2>
-<ul>
 	<li>Django</li>
-	<li>MySQL/ PostgreSQL</li>
+	<li>Flask</li>
+	<li>Node.js. still learning </li>
+</ul>
+<h3>Frontend</h3>
+<ul>
+	<li>HTML\CSS</li>
+	<li>Bootstrap 5</li>
+	<li>JavaScript</li>
+	<li>React still learning </li>
+</ul>
+<h2>Databases & Tools</h2>
+<ul>
+	<li>MySQL/ PostgreSQL/MongoDB</li>
 	<li>Git & GitHub</li>
 	<li>NumPy</li>
 	<li>Face Recognition Libraries</li>
-    <li>Bootstrap</li> 
+    <li> Fast APIs<\li>
+					<li> REST APIs
+						<li>AI
 </ul>
 <h2>🔥 Featured Project</h2>
 
