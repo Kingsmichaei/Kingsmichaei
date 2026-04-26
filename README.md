@@ -1,6 +1,6 @@
-<h1> Kings Michael, Python Backend\AI Engineer </h1>
-<p> A passionate software engineer focused on building practical, real-world systems that solve real problems. </p>
-<P>I enjoy working on backend systems of web applications.</P>
+<h1>Hi, I'm Kingsley Michael 👋🏾  </h1>
+<p> I am a <b>Final Year Computer Science Student</b> at the <b>National Open University of Nigeria (NOUN) </b> and a Backend developer intern at HiiT Plc.</p>
+
 
 <h2>About Me</h2>
 <ul>
@@ -41,25 +41,15 @@
 
 <h3>🕒 Workplace Attendance Management System with Facial Recognition</h3>
 
-<p>A dynamic web-based attendance system that allows:</p>
-<ul>
-	<li>Secure password login</li>
-	<li>Facial recognition authentication</li>
-	<li>Clock-in and clock-out tracking</li>
-	<li>Admin-controlled user management</li>
-	<li>Role-based access control</li>
-	<li>Real-time attendance monitoring</li>
-</ul>
-<P>This project integrates biometric verification into a Django web application to enhance security and reduce impersonation.</P>
+<h4>My final year project focused on automating attendance system for workplace environment</h4>
 
 
-<h2>Currently Working On</h2>
+<h2>Current Focus</h2>
+
 <ul>
-	<li>Improving system architecture design</li>
-	<li>Enhancing UI/UX experience</li>
-	<li>Exploring advanced facial recognition optimization</li>
-    <li>Learning scalable backend patterns</li>
-</ul>
+<li>Completing my undergraduate degree (Final exams starting May 4th, 2026!).
+<li>Scaling Backend architectures into high-performance Al solutions.
+
 
 <h3>My Goal</h3>
 
@@ -69,6 +59,7 @@
 <h3>Connect With Me</h3>
 
 <p>You can reach me through GitHub or collaborate on exciting projects.</p>
+<p>See bio for contact details </p>
 
 <!---
 Kingsmichaei/Kingsmichaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
