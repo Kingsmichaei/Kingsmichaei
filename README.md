@@ -43,7 +43,7 @@
 
 <p>My final year project focused on automating attendance system for workplace environment</p>
 
-<h3>TREMHUB<h3>
+<h3>TREMHUB</h3>
 <p> A community based Commerce Hub </p>
 
 
