@@ -37,11 +37,14 @@
 					<li> REST APIs
 						<li>AI
 </ul>
-<h2>🔥 Featured Project</h2>
+<h2>Featured Project</h2>
 
-<h3>🕒 Workplace Attendance Management System with Facial Recognition</h3>
+<h3>Workplace Attendance Management System with Facial Recognition</h3>
 
-<h4>My final year project focused on automating attendance system for workplace environment</h4>
+<p>My final year project focused on automating attendance system for workplace environment</p>
+
+<h3> TREMHUB <h3>
+<p> A community based Commerce Hub <p>
 
 
 <h2>Current Focus</h2>
@@ -49,6 +52,8 @@
 <ul>
 <li>Completing my undergraduate degree (Final exams starting May 4th, 2026!).
 <li>Scaling Backend architectures into high-performance Al solutions.
+
+</ul>
 
 
 <h3>My Goal</h3>
