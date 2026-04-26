@@ -39,12 +39,12 @@
 </ul>
 <h2>Featured Project</h2>
 
-<h3>Workplace Attendance Management System with Facial Recognition</h3>
+<h3>WorkSync</h3>
 
 <p>My final year project focused on automating attendance system for workplace environment</p>
 
-<h3> TREMHUB <h3>
-<p> A community based Commerce Hub <p>
+<h3>TREMHUB<h3>
+<p> A community based Commerce Hub </p>
 
 
 <h2>Current Focus</h2>
