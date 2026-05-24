@@ -33,9 +33,9 @@
 	<li>Git & GitHub</li>
 	<li>NumPy</li>
 	<li>Face Recognition Libraries</li>
-    <li> Fast APIs<\li>
-					<li> REST APIs
-						<li>AI
+    <li> Fast APIs</li>
+	<li> REST APIs</li>
+	<li>AI</li>
 </ul>
 <h2>Featured Project</h2>
 
