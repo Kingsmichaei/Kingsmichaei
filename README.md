@@ -17,6 +17,7 @@
 <ul>
 	<li>Python</li>
 	<li>Django</li>
+	<li>Fast Api</li>
 	<li>Flask</li>
 	<li>Node.js. still learning </li>
 </ul>
@@ -25,7 +26,7 @@
 	<li>HTML\CSS</li>
 	<li>Bootstrap 5</li>
 	<li>JavaScript</li>
-	<li>React still learning </li>
+	<li>React</li>
 </ul>
 <h2>Databases & Tools</h2>
 <ul>
