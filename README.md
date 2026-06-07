@@ -1,11 +1,11 @@
 <h1>Hi, I'm Kingsley Michael 👋🏾  </h1>
-<p> I am a <b>Final Year Computer Science Student</b> at the <b>National Open University of Nigeria (NOUN) </b> and a Backend developer intern at HiiT Plc.</p>
+<p> I am a <b>Computer Science Graduate</b> from the <b>National Open University of Nigeria (NOUN) </b> and a Backend developer intern at HiiT Plc.</p>
 
 
 <h2>About Me</h2>
 <ul>
 <li>Backend-focused developer</li>
-<li>Building dynamic web applications with Django</li>
+<li>Building dynamic web applications with Django and Fast Api</li>
 <li>Interested in AI integration and system automation</li>
 <li>Passionate about secure authentication systems</li>
 <li>Always learning and improving</li>
@@ -34,7 +34,6 @@
 	<li>Git & GitHub</li>
 	<li>NumPy</li>
 	<li>Face Recognition Libraries</li>
-    <li> Fast APIs</li>
 	<li> REST APIs</li>
 	<li>AI</li>
 </ul>
