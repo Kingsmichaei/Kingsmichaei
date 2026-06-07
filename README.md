@@ -46,8 +46,13 @@
 <h3>TREMHUB</h3>
 <p> A community based Commerce Hub </p>
 
+<h3>Pulse Tracker</h3>
+<p> An attendance tracker </p>
 
-<h2>Current Focus</h2>
+<h3>Pathfinder</h3>
+<p> A digital career guidance </p>
+
+<h2>Focus</h2>
 
 <ul>
 <li>Completing my undergraduate degree (Final exams starting May 4th, 2026!).
