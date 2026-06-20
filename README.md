@@ -4,8 +4,8 @@
 
 <h2>About Me</h2>
 <ul>
-<li>Backend-focused developer</li>
-<li>Building dynamic web applications with Django and Fast Api</li>
+<li>Backend developer</li>
+<li>Building dynamic web applications with Django, FastAPI and AI</li>
 <li>Interested in AI integration and system automation</li>
 <li>Passionate about secure authentication systems</li>
 <li>Always learning and improving</li>
