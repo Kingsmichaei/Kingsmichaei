@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kingsley Michael 👋🏾  </h1>
-<p> I am a <b>Computer Science Graduate</b> from the <b>National Open University of Nigeria (NOUN) </b> and a Backend developer intern at HiiT Plc.</p>
+<p> I am a <b>Computer Science Graduate</b> from the <b>National Open University of Nigeria (NOUN) </b> a former Backend developer intern at HiiT Plc.</p>
 
 
 <h2>About Me</h2>
